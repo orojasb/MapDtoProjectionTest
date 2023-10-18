@@ -1,0 +1,2 @@
+# ImproveMapDtoProjectionTest
+This is a test to check the Dto mapping using mapstruct, lombok to check if it can improve the mapping time in another private project, also test the mapping of read instructions directly to dto projections instead of to entities in springboot.
