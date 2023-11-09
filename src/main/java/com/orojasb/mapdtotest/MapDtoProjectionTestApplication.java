@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MapdtotestApplication {
+public class MapDtoProjectionTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MapdtotestApplication.class, args);
+		SpringApplication.run(MapDtoProjectionTestApplication.class, args);
 	}
 
 }
